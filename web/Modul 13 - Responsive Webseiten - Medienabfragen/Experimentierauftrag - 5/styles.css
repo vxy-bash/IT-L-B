@@ -1,0 +1,32 @@
+
+@media screen and (aspect-ratio <= 16/9) {
+  body {
+    background-color: green;
+  }
+
+}
+
+nav ul {
+ padding-left: 0px;
+ list-style: none;
+}
+
+
+nav li {
+ display: inline-block;
+ margin: 5px;
+ }
+
+
+
+nav a {
+ display: block;
+ width: 150px;
+ height: 25px;
+ padding-top: 7px;
+ background-color: lightblue;
+ color: blue;
+ text-align: center;
+ border-radius: 25px 0px 25px 0px;
+}
+

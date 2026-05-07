@@ -1,0 +1,191 @@
+* {
+  font-family: Arial, sans-serif;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(216, 216, 216);
+  text-align: center;
+  margin: 0;
+  padding: 20px 0;
+}
+
+header {
+  margin-bottom: 50px;
+}
+
+section {
+  margin-bottom: 80px;
+}
+
+/* Allgemeine Div Styles */
+div {
+  background-color: gray;
+  width: 80vw;
+  margin: auto;
+  border-radius: 10px;
+  height: 150px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 10px;
+  padding: 10px;
+  flex-wrap: nowrap;
+}
+
+article {
+  background-color: #4caf50;
+  color: white;
+  padding: 20px;
+  border-radius: 5px;
+  flex-shrink: 0;
+  text-align: center;
+  min-width: 50px;
+}
+
+/* Flexbox-Eigenschaften */
+
+/* 1. display: flex; */
+#flex-display {
+  display: flex;
+}
+
+/* 2. flex-direction: row; (Standart) */
+#flex-row {
+  flex-direction: row;
+}
+
+/* 3. flex-direction: row-reverse; */
+#flex-row-reverse {
+  flex-direction: row-reverse;
+}
+
+/* 4. flex-direction: column; */
+#flex-column {
+  flex-direction: column;
+  height: 350px;
+}
+
+/* 5. flex-direction: column-reverse; */
+#flex-column-reverse {
+  flex-direction: column-reverse;
+  height: 350px;
+}
+
+/* 6. flex-wrap: wrap; */
+#flex-wrap {
+  flex-wrap: wrap;
+  height: auto;
+}
+
+#flex-wrap article {
+  flex: 0 0 150px;
+  margin: 5px;
+}
+
+/* 7. flex-wrap: wrap-reverse; */
+#flex-wrap-reverse {
+  flex-wrap: wrap-reverse;
+  height: auto;
+}
+
+#flex-wrap-reverse article {
+  flex: 0 0 150px;
+  margin: 5px;
+}
+
+/* 8. flex-basis: 150px; */
+#flex-basis article {
+  flex-basis: 150px;
+}
+
+/* 9. flex-grow: 1; */
+#flex-grow article {
+  flex-grow: 1;
+  flex-shrink: 1;
+  flex-basis: 100px;
+}
+
+/* 10. flex-shrink: 1; */
+#flex-shrink {
+  width: 300px; /* damit Shrink sichtbar wird */
+}
+#flex-shrink article {
+  flex-shrink: 1;
+  flex-basis: 150px;
+}
+
+/* 11. flex: 2 1 150px; */
+#flex-150 article {
+  flex: 2 1 150px;
+}
+
+/* 12. order */
+#flex-order article {
+  flex-grow: 1;
+  flex-basis: 100px;
+}
+
+/* 13. justify-content: center; */
+#justify-center {
+  justify-content: center;
+}
+
+/* 14. justify-content: flex-start; */
+#justify-start {
+  justify-content: flex-start;
+}
+
+/* 15. justify-content: flex-end; */
+#justify-end {
+  justify-content: flex-end;
+}
+
+/* 16. justify-content: space-around; */
+#justify-space-around {
+  justify-content: space-around;
+}
+
+/* 17. justify-content: space-between; */
+#justify-space-between {
+  justify-content: space-between;
+}
+
+/* 18. justify-content: space-evenly; */
+#justify-space-evenly {
+  justify-content: space-evenly;
+}
+
+/* 19. align-items: center; */
+#align-center {
+  align-items: center;
+}
+
+/* 20. align-items: flex-start; */
+#align-start {
+  align-items: flex-start;
+}
+
+/* 21. align-items: flex-end; */
+#align-end {
+  align-items: flex-end;
+}
+
+/* 22. Media Query Beispiel */
+#media-query {
+  justify-content: space-between;
+}
+
+@media (max-width: 750px) {
+  #media-query {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+  }
+
+  #media-query article {
+    flex-basis: 100%;
+    margin-bottom: 10px;
+  }
+}

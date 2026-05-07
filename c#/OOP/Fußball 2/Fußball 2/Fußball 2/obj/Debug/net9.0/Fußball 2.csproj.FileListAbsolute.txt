@@ -1,0 +1,14 @@
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\OOP\Fußball 2\Fußball 2\Fußball 2\obj\Debug\net9.0\Fußball 2.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\OOP\Fußball 2\Fußball 2\Fußball 2\obj\Debug\net9.0\Fußball 2.AssemblyInfoInputs.cache
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\OOP\Fußball 2\Fußball 2\Fußball 2\obj\Debug\net9.0\Fußball 2.AssemblyInfo.cs
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\OOP\Fußball 2\Fußball 2\Fußball 2\obj\Debug\net9.0\Fußball 2.csproj.CoreCompileInputs.cache
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\OOP\Fußball 2\Fußball 2\Fußball 2\bin\Debug\net9.0\Fußball 2.exe
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\OOP\Fußball 2\Fußball 2\Fußball 2\bin\Debug\net9.0\Fußball 2.deps.json
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\OOP\Fußball 2\Fußball 2\Fußball 2\bin\Debug\net9.0\Fußball 2.runtimeconfig.json
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\OOP\Fußball 2\Fußball 2\Fußball 2\bin\Debug\net9.0\Fußball 2.dll
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\OOP\Fußball 2\Fußball 2\Fußball 2\bin\Debug\net9.0\Fußball 2.pdb
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\OOP\Fußball 2\Fußball 2\Fußball 2\obj\Debug\net9.0\Fußball 2.dll
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\OOP\Fußball 2\Fußball 2\Fußball 2\obj\Debug\net9.0\refint\Fußball 2.dll
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\OOP\Fußball 2\Fußball 2\Fußball 2\obj\Debug\net9.0\Fußball 2.pdb
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\OOP\Fußball 2\Fußball 2\Fußball 2\obj\Debug\net9.0\Fußball 2.genruntimeconfig.cache
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\OOP\Fußball 2\Fußball 2\Fußball 2\obj\Debug\net9.0\ref\Fußball 2.dll

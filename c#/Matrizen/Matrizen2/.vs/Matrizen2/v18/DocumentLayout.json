@@ -1,0 +1,64 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "\\\\10.90.10.250\\itlabvi\\Lehrlinge\\Gruppe U\\Knauder Gabriel\\Fachtrainer\\Ley\\Matrizen\\Matrizen2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B05571B5-E5AD-4F32-AD88-48BB827E7FF8}|Matrizen2\\Matrizen2.csproj|\\\\10.90.10.250\\itlabvi\\lehrlinge\\gruppe u\\knauder gabriel\\fachtrainer\\ley\\matrizen\\matrizen2\\matrizen2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "\\\\10.90.10.250\\itlabvi\\Lehrlinge\\Gruppe U\\Knauder Gabriel\\Fachtrainer\\Ley\\Matrizen\\Matrizen2\\Matrizen2\\Program.cs",
+              "RelativeDocumentMoniker": "Matrizen2\\Program.cs",
+              "ToolTip": "\\\\10.90.10.250\\itlabvi\\Lehrlinge\\Gruppe U\\Knauder Gabriel\\Fachtrainer\\Ley\\Matrizen\\Matrizen2\\Matrizen2\\Program.cs",
+              "RelativeToolTip": "Matrizen2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T10:18:08.855Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

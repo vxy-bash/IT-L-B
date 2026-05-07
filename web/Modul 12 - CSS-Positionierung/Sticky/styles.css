@@ -1,0 +1,12 @@
+div {
+    border: 2px solid green;
+    margin-left: 50px;
+}
+
+img {
+    width: 80px;
+    position: sticky;
+    top: 75px;
+    bottom: 20px;
+    left: 50px;
+}

@@ -1,0 +1,96 @@
+body{
+    background-color: #F4C882;
+}
+
+header img{
+    height: 80px;
+    float: right;
+}
+
+header{
+    text-align: center;
+}
+
+@keyframes color{
+0% {     background-color: #1E9EC5;}
+25% {    background-color: #75bacf;}
+50% {     background-color: #1E9EC5;}
+75% {    background-color: #75bacf;}
+100% {     background-color: #1E9EC5;}
+
+}
+
+nav ul{
+    list-style: none;
+    padding-left: 0px;
+}
+
+nav a{
+    text-decoration: none;
+    display: block;
+    height: 25px;
+    width: 200px;
+    color: white;
+    padding-top: 7px;
+    text-align: center;
+    margin-bottom: 5px;
+    box-shadow: 10px 10px 8px #888888;
+    animation-name: color;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+
+}
+nav a:hover{
+    color: #989a9b;
+    background-color: white;
+
+}
+
+article{
+    display: none;
+}
+article:target{
+    display: block;
+}
+
+header p{
+    display: none;
+}
+
+
+/* Eigener Code + im HTML Dokument kleine veränderungen wie Absätze und style Elemente für einzelne Bilder*/
+
+body{font-family: 'Arial';}
+
+nav a:hover{
+    font-size: 120%;
+}
+
+footer{
+    background-color: #e69e2a;
+    text-align: center;
+    border-radius: 10px;
+    padding: 7px;
+}
+
+footer a{
+    text-decoration: none;
+    color: rgb(3, 134, 134);
+    font-weight: bold;
+}
+
+footer a:hover{
+    font-size: 110%;
+    color: green;
+}
+
+header{
+    background-color: #e69e2a;
+    border-radius: 10px;
+    padding: 7px;
+    text-decoration: underline;
+}
+
+article img{
+    max-width: 400px;
+}

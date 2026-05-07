@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "\\\\10.90.10.250\\itlabvi\\Lehrlinge\\Gruppe U\\Knauder Gabriel\\Fachtrainer\\Ley\\OOP\\Bahnhof 1\\Bahnhof 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BEE90EB-BC85-4358-8062-8D4D1EA900B9}|Bahnhof 1\\Bahnhof 1.csproj|\\\\10.90.10.250\\itlabvi\\lehrlinge\\gruppe u\\knauder gabriel\\fachtrainer\\ley\\oop\\bahnhof 1\\bahnhof 1\\bahnhof 1\\bahnhof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BEE90EB-BC85-4358-8062-8D4D1EA900B9}|Bahnhof 1\\Bahnhof 1.csproj|\\\\10.90.10.250\\itlabvi\\lehrlinge\\gruppe u\\knauder gabriel\\fachtrainer\\ley\\oop\\bahnhof 1\\bahnhof 1\\bahnhof 1\\perron.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BEE90EB-BC85-4358-8062-8D4D1EA900B9}|Bahnhof 1\\Bahnhof 1.csproj|\\\\10.90.10.250\\itlabvi\\lehrlinge\\gruppe u\\knauder gabriel\\fachtrainer\\ley\\oop\\bahnhof 1\\bahnhof 1\\bahnhof 1\\zug.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BEE90EB-BC85-4358-8062-8D4D1EA900B9}|Bahnhof 1\\Bahnhof 1.csproj|\\\\10.90.10.250\\itlabvi\\lehrlinge\\gruppe u\\knauder gabriel\\fachtrainer\\ley\\oop\\bahnhof 1\\bahnhof 1\\bahnhof 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Perron.cs",
+              "DocumentMoniker": "\\\\10.90.10.250\\itlabvi\\Lehrlinge\\Gruppe U\\Knauder Gabriel\\Fachtrainer\\Ley\\OOP\\Bahnhof 1\\Bahnhof 1\\Bahnhof 1\\Perron.cs",
+              "RelativeDocumentMoniker": "Bahnhof 1\\Perron.cs",
+              "ToolTip": "\\\\10.90.10.250\\itlabvi\\Lehrlinge\\Gruppe U\\Knauder Gabriel\\Fachtrainer\\Ley\\OOP\\Bahnhof 1\\Bahnhof 1\\Bahnhof 1\\Perron.cs",
+              "RelativeToolTip": "Bahnhof 1\\Perron.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T10:17:22.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bahnhof.cs",
+              "DocumentMoniker": "\\\\10.90.10.250\\itlabvi\\Lehrlinge\\Gruppe U\\Knauder Gabriel\\Fachtrainer\\Ley\\OOP\\Bahnhof 1\\Bahnhof 1\\Bahnhof 1\\Bahnhof.cs",
+              "RelativeDocumentMoniker": "Bahnhof 1\\Bahnhof.cs",
+              "ToolTip": "\\\\10.90.10.250\\itlabvi\\Lehrlinge\\Gruppe U\\Knauder Gabriel\\Fachtrainer\\Ley\\OOP\\Bahnhof 1\\Bahnhof 1\\Bahnhof 1\\Bahnhof.cs",
+              "RelativeToolTip": "Bahnhof 1\\Bahnhof.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T10:17:05.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Zug.cs",
+              "DocumentMoniker": "\\\\10.90.10.250\\itlabvi\\Lehrlinge\\Gruppe U\\Knauder Gabriel\\Fachtrainer\\Ley\\OOP\\Bahnhof 1\\Bahnhof 1\\Bahnhof 1\\Zug.cs",
+              "RelativeDocumentMoniker": "Bahnhof 1\\Zug.cs",
+              "ToolTip": "\\\\10.90.10.250\\itlabvi\\Lehrlinge\\Gruppe U\\Knauder Gabriel\\Fachtrainer\\Ley\\OOP\\Bahnhof 1\\Bahnhof 1\\Bahnhof 1\\Zug.cs",
+              "RelativeToolTip": "Bahnhof 1\\Zug.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T10:16:49.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "\\\\10.90.10.250\\itlabvi\\Lehrlinge\\Gruppe U\\Knauder Gabriel\\Fachtrainer\\Ley\\OOP\\Bahnhof 1\\Bahnhof 1\\Bahnhof 1\\Program.cs",
+              "RelativeDocumentMoniker": "Bahnhof 1\\Program.cs",
+              "ToolTip": "\\\\10.90.10.250\\itlabvi\\Lehrlinge\\Gruppe U\\Knauder Gabriel\\Fachtrainer\\Ley\\OOP\\Bahnhof 1\\Bahnhof 1\\Bahnhof 1\\Program.cs",
+              "RelativeToolTip": "Bahnhof 1\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T10:16:31.732Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

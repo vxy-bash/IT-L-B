@@ -1,0 +1,23 @@
+div {
+    border: 2px solid green;
+    margin-left: 100px;
+}
+
+p {
+    position: relative;
+    border: 2px solid red;
+}
+
+p img {
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    z-index: 2;
+}
+
+p span img {
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    z-index: 3;
+}

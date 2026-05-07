@@ -1,0 +1,14 @@
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Raunig\c#\Passwortabfrage\Passwortabfrage\bin\Debug\net9.0\Passwortabfrage.exe
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Raunig\c#\Passwortabfrage\Passwortabfrage\bin\Debug\net9.0\Passwortabfrage.deps.json
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Raunig\c#\Passwortabfrage\Passwortabfrage\bin\Debug\net9.0\Passwortabfrage.runtimeconfig.json
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Raunig\c#\Passwortabfrage\Passwortabfrage\bin\Debug\net9.0\Passwortabfrage.dll
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Raunig\c#\Passwortabfrage\Passwortabfrage\bin\Debug\net9.0\Passwortabfrage.pdb
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Raunig\c#\Passwortabfrage\Passwortabfrage\obj\Debug\net9.0\Passwortabfrage.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Raunig\c#\Passwortabfrage\Passwortabfrage\obj\Debug\net9.0\Passwortabfrage.AssemblyInfoInputs.cache
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Raunig\c#\Passwortabfrage\Passwortabfrage\obj\Debug\net9.0\Passwortabfrage.AssemblyInfo.cs
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Raunig\c#\Passwortabfrage\Passwortabfrage\obj\Debug\net9.0\Passwortabfrage.csproj.CoreCompileInputs.cache
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Raunig\c#\Passwortabfrage\Passwortabfrage\obj\Debug\net9.0\Passwortabfrage.dll
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Raunig\c#\Passwortabfrage\Passwortabfrage\obj\Debug\net9.0\refint\Passwortabfrage.dll
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Raunig\c#\Passwortabfrage\Passwortabfrage\obj\Debug\net9.0\Passwortabfrage.pdb
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Raunig\c#\Passwortabfrage\Passwortabfrage\obj\Debug\net9.0\Passwortabfrage.genruntimeconfig.cache
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Raunig\c#\Passwortabfrage\Passwortabfrage\obj\Debug\net9.0\ref\Passwortabfrage.dll

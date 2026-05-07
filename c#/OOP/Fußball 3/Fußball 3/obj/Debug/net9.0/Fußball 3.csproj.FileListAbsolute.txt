@@ -1,0 +1,14 @@
+\\10.90.10.250\itlabvi\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\OOP\Fußball 3\Fußball 3\bin\Debug\net9.0\Fußball 3.exe
+\\10.90.10.250\itlabvi\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\OOP\Fußball 3\Fußball 3\bin\Debug\net9.0\Fußball 3.deps.json
+\\10.90.10.250\itlabvi\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\OOP\Fußball 3\Fußball 3\bin\Debug\net9.0\Fußball 3.runtimeconfig.json
+\\10.90.10.250\itlabvi\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\OOP\Fußball 3\Fußball 3\bin\Debug\net9.0\Fußball 3.dll
+\\10.90.10.250\itlabvi\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\OOP\Fußball 3\Fußball 3\bin\Debug\net9.0\Fußball 3.pdb
+\\10.90.10.250\itlabvi\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\OOP\Fußball 3\Fußball 3\obj\Debug\net9.0\Fußball 3.GeneratedMSBuildEditorConfig.editorconfig
+\\10.90.10.250\itlabvi\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\OOP\Fußball 3\Fußball 3\obj\Debug\net9.0\Fußball 3.AssemblyInfoInputs.cache
+\\10.90.10.250\itlabvi\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\OOP\Fußball 3\Fußball 3\obj\Debug\net9.0\Fußball 3.AssemblyInfo.cs
+\\10.90.10.250\itlabvi\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\OOP\Fußball 3\Fußball 3\obj\Debug\net9.0\Fußball 3.csproj.CoreCompileInputs.cache
+\\10.90.10.250\itlabvi\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\OOP\Fußball 3\Fußball 3\obj\Debug\net9.0\Fußball 3.dll
+\\10.90.10.250\itlabvi\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\OOP\Fußball 3\Fußball 3\obj\Debug\net9.0\refint\Fußball 3.dll
+\\10.90.10.250\itlabvi\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\OOP\Fußball 3\Fußball 3\obj\Debug\net9.0\Fußball 3.pdb
+\\10.90.10.250\itlabvi\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\OOP\Fußball 3\Fußball 3\obj\Debug\net9.0\Fußball 3.genruntimeconfig.cache
+\\10.90.10.250\itlabvi\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\OOP\Fußball 3\Fußball 3\obj\Debug\net9.0\ref\Fußball 3.dll

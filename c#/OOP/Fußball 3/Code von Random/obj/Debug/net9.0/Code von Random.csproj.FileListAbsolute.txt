@@ -1,0 +1,14 @@
+\\10.90.10.250\itlabvi\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\OOP\Fußball 3\Code von Random\obj\Debug\net9.0\Code von Random.GeneratedMSBuildEditorConfig.editorconfig
+\\10.90.10.250\itlabvi\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\OOP\Fußball 3\Code von Random\obj\Debug\net9.0\Code von Random.AssemblyInfoInputs.cache
+\\10.90.10.250\itlabvi\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\OOP\Fußball 3\Code von Random\obj\Debug\net9.0\Code von Random.AssemblyInfo.cs
+\\10.90.10.250\itlabvi\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\OOP\Fußball 3\Code von Random\obj\Debug\net9.0\Code von Random.csproj.CoreCompileInputs.cache
+\\10.90.10.250\itlabvi\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\OOP\Fußball 3\Code von Random\bin\Debug\net9.0\Code von Random.exe
+\\10.90.10.250\itlabvi\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\OOP\Fußball 3\Code von Random\bin\Debug\net9.0\Code von Random.deps.json
+\\10.90.10.250\itlabvi\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\OOP\Fußball 3\Code von Random\bin\Debug\net9.0\Code von Random.runtimeconfig.json
+\\10.90.10.250\itlabvi\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\OOP\Fußball 3\Code von Random\bin\Debug\net9.0\Code von Random.dll
+\\10.90.10.250\itlabvi\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\OOP\Fußball 3\Code von Random\bin\Debug\net9.0\Code von Random.pdb
+\\10.90.10.250\itlabvi\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\OOP\Fußball 3\Code von Random\obj\Debug\net9.0\Code von Random.dll
+\\10.90.10.250\itlabvi\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\OOP\Fußball 3\Code von Random\obj\Debug\net9.0\refint\Code von Random.dll
+\\10.90.10.250\itlabvi\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\OOP\Fußball 3\Code von Random\obj\Debug\net9.0\Code von Random.pdb
+\\10.90.10.250\itlabvi\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\OOP\Fußball 3\Code von Random\obj\Debug\net9.0\Code von Random.genruntimeconfig.cache
+\\10.90.10.250\itlabvi\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\OOP\Fußball 3\Code von Random\obj\Debug\net9.0\ref\Code von Random.dll

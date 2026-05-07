@@ -1,0 +1,59 @@
+C:\Users\itlabvi\source\repos\BlackJack WPF1\BlackJack WPF1\obj\Debug\BlackJack WPF1.csproj.AssemblyReference.cache
+C:\Users\itlabvi\source\repos\BlackJack WPF1\BlackJack WPF1\obj\Debug\MainWindow.g.cs
+C:\Users\itlabvi\source\repos\BlackJack WPF1\BlackJack WPF1\obj\Debug\App.g.cs
+C:\Users\itlabvi\source\repos\BlackJack WPF1\BlackJack WPF1\obj\Debug\BlackJack WPF1_MarkupCompile.cache
+C:\Users\itlabvi\source\repos\BlackJack WPF1\BlackJack WPF1\obj\Debug\BlackJack WPF1_MarkupCompile.lref
+C:\Users\itlabvi\source\repos\BlackJack WPF1\BlackJack WPF1\bin\Debug\BlackJack WPF1.exe.config
+C:\Users\itlabvi\source\repos\BlackJack WPF1\BlackJack WPF1\bin\Debug\BlackJack WPF1.exe
+C:\Users\itlabvi\source\repos\BlackJack WPF1\BlackJack WPF1\bin\Debug\BlackJack WPF1.pdb
+C:\Users\itlabvi\source\repos\BlackJack WPF1\BlackJack WPF1\obj\Debug\MainWindow.baml
+C:\Users\itlabvi\source\repos\BlackJack WPF1\BlackJack WPF1\obj\Debug\BlackJack WPF1.g.resources
+C:\Users\itlabvi\source\repos\BlackJack WPF1\BlackJack WPF1\obj\Debug\BlackJack_WPF1.Properties.Resources.resources
+C:\Users\itlabvi\source\repos\BlackJack WPF1\BlackJack WPF1\obj\Debug\BlackJack WPF1.csproj.GenerateResource.cache
+C:\Users\itlabvi\source\repos\BlackJack WPF1\BlackJack WPF1\obj\Debug\BlackJack WPF1.csproj.CoreCompileInputs.cache
+C:\Users\itlabvi\source\repos\BlackJack WPF1\BlackJack WPF1\obj\Debug\BlackJack WPF1.exe
+C:\Users\itlabvi\source\repos\BlackJack WPF1\BlackJack WPF1\obj\Debug\BlackJack WPF1.pdb
+Z:\Lehrlinge\Gruppe T\Steiner_Fabian\Fr. Ley\C#\WPF\BlackJack WPF1\BlackJack WPF1\bin\Debug\BlackJack WPF1.exe.config
+Z:\Lehrlinge\Gruppe T\Steiner_Fabian\Fr. Ley\C#\WPF\BlackJack WPF1\BlackJack WPF1\bin\Debug\BlackJack WPF1.exe
+Z:\Lehrlinge\Gruppe T\Steiner_Fabian\Fr. Ley\C#\WPF\BlackJack WPF1\BlackJack WPF1\bin\Debug\BlackJack WPF1.pdb
+Z:\Lehrlinge\Gruppe T\Steiner_Fabian\Fr. Ley\C#\WPF\BlackJack WPF1\BlackJack WPF1\obj\Debug\BlackJack WPF1.csproj.AssemblyReference.cache
+Z:\Lehrlinge\Gruppe T\Steiner_Fabian\Fr. Ley\C#\WPF\BlackJack WPF1\BlackJack WPF1\obj\Debug\MainWindow.g.cs
+Z:\Lehrlinge\Gruppe T\Steiner_Fabian\Fr. Ley\C#\WPF\BlackJack WPF1\BlackJack WPF1\obj\Debug\App.g.cs
+Z:\Lehrlinge\Gruppe T\Steiner_Fabian\Fr. Ley\C#\WPF\BlackJack WPF1\BlackJack WPF1\obj\Debug\BlackJack WPF1_MarkupCompile.cache
+Z:\Lehrlinge\Gruppe T\Steiner_Fabian\Fr. Ley\C#\WPF\BlackJack WPF1\BlackJack WPF1\obj\Debug\BlackJack WPF1_MarkupCompile.lref
+Z:\Lehrlinge\Gruppe T\Steiner_Fabian\Fr. Ley\C#\WPF\BlackJack WPF1\BlackJack WPF1\obj\Debug\MainWindow.baml
+Z:\Lehrlinge\Gruppe T\Steiner_Fabian\Fr. Ley\C#\WPF\BlackJack WPF1\BlackJack WPF1\obj\Debug\BlackJack WPF1.g.resources
+Z:\Lehrlinge\Gruppe T\Steiner_Fabian\Fr. Ley\C#\WPF\BlackJack WPF1\BlackJack WPF1\obj\Debug\BlackJack_WPF1.Properties.Resources.resources
+Z:\Lehrlinge\Gruppe T\Steiner_Fabian\Fr. Ley\C#\WPF\BlackJack WPF1\BlackJack WPF1\obj\Debug\BlackJack WPF1.csproj.GenerateResource.cache
+Z:\Lehrlinge\Gruppe T\Steiner_Fabian\Fr. Ley\C#\WPF\BlackJack WPF1\BlackJack WPF1\obj\Debug\BlackJack WPF1.csproj.CoreCompileInputs.cache
+Z:\Lehrlinge\Gruppe T\Steiner_Fabian\Fr. Ley\C#\WPF\BlackJack WPF1\BlackJack WPF1\obj\Debug\BlackJack WPF1.exe
+Z:\Lehrlinge\Gruppe T\Steiner_Fabian\Fr. Ley\C#\WPF\BlackJack WPF1\BlackJack WPF1\obj\Debug\BlackJack WPF1.pdb
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\WPF\BlackJack WPF1\BlackJack WPF1\bin\Debug\BlackJack WPF1.exe.config
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\WPF\BlackJack WPF1\BlackJack WPF1\bin\Debug\BlackJack WPF1.exe
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\WPF\BlackJack WPF1\BlackJack WPF1\bin\Debug\BlackJack WPF1.pdb
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\WPF\BlackJack WPF1\BlackJack WPF1\obj\Debug\BlackJack WPF1.csproj.AssemblyReference.cache
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\WPF\BlackJack WPF1\BlackJack WPF1\obj\Debug\MainWindow.g.cs
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\WPF\BlackJack WPF1\BlackJack WPF1\obj\Debug\App.g.cs
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\WPF\BlackJack WPF1\BlackJack WPF1\obj\Debug\BlackJack WPF1_MarkupCompile.cache
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\WPF\BlackJack WPF1\BlackJack WPF1\obj\Debug\MainWindow.baml
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\WPF\BlackJack WPF1\BlackJack WPF1\obj\Debug\BlackJack WPF1.g.resources
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\WPF\BlackJack WPF1\BlackJack WPF1\obj\Debug\BlackJack_WPF1.Properties.Resources.resources
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\WPF\BlackJack WPF1\BlackJack WPF1\obj\Debug\BlackJack WPF1.csproj.GenerateResource.cache
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\WPF\BlackJack WPF1\BlackJack WPF1\obj\Debug\BlackJack WPF1.csproj.CoreCompileInputs.cache
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\WPF\BlackJack WPF1\BlackJack WPF1\obj\Debug\BlackJack WPF1.exe
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\WPF\BlackJack WPF1\BlackJack WPF1\obj\Debug\BlackJack WPF1.pdb
+\\10.90.10.250\itlabvi\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\WPF\BlackJack WPF1\BlackJack WPF1\bin\Debug\BlackJack WPF1.exe.config
+\\10.90.10.250\itlabvi\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\WPF\BlackJack WPF1\BlackJack WPF1\bin\Debug\BlackJack WPF1.exe
+\\10.90.10.250\itlabvi\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\WPF\BlackJack WPF1\BlackJack WPF1\bin\Debug\BlackJack WPF1.pdb
+\\10.90.10.250\itlabvi\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\WPF\BlackJack WPF1\BlackJack WPF1\obj\Debug\BlackJack WPF1.csproj.AssemblyReference.cache
+\\10.90.10.250\itlabvi\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\WPF\BlackJack WPF1\BlackJack WPF1\obj\Debug\MainWindow.baml
+\\10.90.10.250\itlabvi\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\WPF\BlackJack WPF1\BlackJack WPF1\obj\Debug\MainWindow.g.cs
+\\10.90.10.250\itlabvi\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\WPF\BlackJack WPF1\BlackJack WPF1\obj\Debug\App.g.cs
+\\10.90.10.250\itlabvi\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\WPF\BlackJack WPF1\BlackJack WPF1\obj\Debug\BlackJack WPF1_MarkupCompile.cache
+\\10.90.10.250\itlabvi\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\WPF\BlackJack WPF1\BlackJack WPF1\obj\Debug\BlackJack WPF1.g.resources
+\\10.90.10.250\itlabvi\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\WPF\BlackJack WPF1\BlackJack WPF1\obj\Debug\BlackJack_WPF1.Properties.Resources.resources
+\\10.90.10.250\itlabvi\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\WPF\BlackJack WPF1\BlackJack WPF1\obj\Debug\BlackJack WPF1.csproj.GenerateResource.cache
+\\10.90.10.250\itlabvi\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\WPF\BlackJack WPF1\BlackJack WPF1\obj\Debug\BlackJack WPF1.csproj.CoreCompileInputs.cache
+\\10.90.10.250\itlabvi\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\WPF\BlackJack WPF1\BlackJack WPF1\obj\Debug\BlackJack WPF1.exe
+\\10.90.10.250\itlabvi\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\WPF\BlackJack WPF1\BlackJack WPF1\obj\Debug\BlackJack WPF1.pdb
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\WPF\BlackJack WPF1\BlackJack WPF1\obj\Debug\BlackJack WPF1.exe.config

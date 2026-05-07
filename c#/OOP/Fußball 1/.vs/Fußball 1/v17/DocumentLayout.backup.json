@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "X:\\Lehrlinge\\Gruppe U\\Knauder Gabriel\\Fachtrainer\\Ley\\OOP\\Fu\u00DFball 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22F195FB-15B2-4556-BDEB-16F54690F2F0}|Fu\u00DFball 1\\Fu\u00DFball 1.csproj|x:\\lehrlinge\\gruppe u\\knauder gabriel\\fachtrainer\\ley\\oop\\fu\u00DFball 1\\fu\u00DFball 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22F195FB-15B2-4556-BDEB-16F54690F2F0}|Fu\u00DFball 1\\Fu\u00DFball 1.csproj|solutionrelative:fu\u00DFball 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F195FB-15B2-4556-BDEB-16F54690F2F0}|Fu\u00DFball 1\\Fu\u00DFball 1.csproj|x:\\lehrlinge\\gruppe u\\knauder gabriel\\fachtrainer\\ley\\oop\\fu\u00DFball 1\\fu\u00DFball 1\\feldspieler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22F195FB-15B2-4556-BDEB-16F54690F2F0}|Fu\u00DFball 1\\Fu\u00DFball 1.csproj|solutionrelative:fu\u00DFball 1\\feldspieler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F195FB-15B2-4556-BDEB-16F54690F2F0}|Fu\u00DFball 1\\Fu\u00DFball 1.csproj|x:\\lehrlinge\\gruppe u\\knauder gabriel\\fachtrainer\\ley\\oop\\fu\u00DFball 1\\fu\u00DFball 1\\goalie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22F195FB-15B2-4556-BDEB-16F54690F2F0}|Fu\u00DFball 1\\Fu\u00DFball 1.csproj|solutionrelative:fu\u00DFball 1\\goalie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F195FB-15B2-4556-BDEB-16F54690F2F0}|Fu\u00DFball 1\\Fu\u00DFball 1.csproj|x:\\lehrlinge\\gruppe u\\knauder gabriel\\fachtrainer\\ley\\oop\\fu\u00DFball 1\\fu\u00DFball 1\\ersatzbank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22F195FB-15B2-4556-BDEB-16F54690F2F0}|Fu\u00DFball 1\\Fu\u00DFball 1.csproj|solutionrelative:fu\u00DFball 1\\ersatzbank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F195FB-15B2-4556-BDEB-16F54690F2F0}|Fu\u00DFball 1\\Fu\u00DFball 1.csproj|x:\\lehrlinge\\gruppe u\\knauder gabriel\\fachtrainer\\ley\\oop\\fu\u00DFball 1\\fu\u00DFball 1\\sportchef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22F195FB-15B2-4556-BDEB-16F54690F2F0}|Fu\u00DFball 1\\Fu\u00DFball 1.csproj|solutionrelative:fu\u00DFball 1\\sportchef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F195FB-15B2-4556-BDEB-16F54690F2F0}|Fu\u00DFball 1\\Fu\u00DFball 1.csproj|x:\\lehrlinge\\gruppe u\\knauder gabriel\\fachtrainer\\ley\\oop\\fu\u00DFball 1\\fu\u00DFball 1\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22F195FB-15B2-4556-BDEB-16F54690F2F0}|Fu\u00DFball 1\\Fu\u00DFball 1.csproj|solutionrelative:fu\u00DFball 1\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "X:\\Lehrlinge\\Gruppe U\\Knauder Gabriel\\Fachtrainer\\Ley\\OOP\\Fu\u00DFball 1\\Fu\u00DFball 1\\Program.cs",
+              "RelativeDocumentMoniker": "Fu\u00DFball 1\\Program.cs",
+              "ToolTip": "X:\\Lehrlinge\\Gruppe U\\Knauder Gabriel\\Fachtrainer\\Ley\\OOP\\Fu\u00DFball 1\\Fu\u00DFball 1\\Program.cs",
+              "RelativeToolTip": "Fu\u00DFball 1\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T12:31:23.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Feldspieler.cs",
+              "DocumentMoniker": "X:\\Lehrlinge\\Gruppe U\\Knauder Gabriel\\Fachtrainer\\Ley\\OOP\\Fu\u00DFball 1\\Fu\u00DFball 1\\Feldspieler.cs",
+              "RelativeDocumentMoniker": "Fu\u00DFball 1\\Feldspieler.cs",
+              "ToolTip": "X:\\Lehrlinge\\Gruppe U\\Knauder Gabriel\\Fachtrainer\\Ley\\OOP\\Fu\u00DFball 1\\Fu\u00DFball 1\\Feldspieler.cs",
+              "RelativeToolTip": "Fu\u00DFball 1\\Feldspieler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T12:41:54.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Sportchef.cs",
+              "DocumentMoniker": "X:\\Lehrlinge\\Gruppe U\\Knauder Gabriel\\Fachtrainer\\Ley\\OOP\\Fu\u00DFball 1\\Fu\u00DFball 1\\Sportchef.cs",
+              "RelativeDocumentMoniker": "Fu\u00DFball 1\\Sportchef.cs",
+              "ToolTip": "X:\\Lehrlinge\\Gruppe U\\Knauder Gabriel\\Fachtrainer\\Ley\\OOP\\Fu\u00DFball 1\\Fu\u00DFball 1\\Sportchef.cs",
+              "RelativeToolTip": "Fu\u00DFball 1\\Sportchef.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T12:41:11.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Trainer.cs",
+              "DocumentMoniker": "X:\\Lehrlinge\\Gruppe U\\Knauder Gabriel\\Fachtrainer\\Ley\\OOP\\Fu\u00DFball 1\\Fu\u00DFball 1\\Trainer.cs",
+              "RelativeDocumentMoniker": "Fu\u00DFball 1\\Trainer.cs",
+              "ToolTip": "X:\\Lehrlinge\\Gruppe U\\Knauder Gabriel\\Fachtrainer\\Ley\\OOP\\Fu\u00DFball 1\\Fu\u00DFball 1\\Trainer.cs",
+              "RelativeToolTip": "Fu\u00DFball 1\\Trainer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T12:41:28.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Goalie.cs",
+              "DocumentMoniker": "X:\\Lehrlinge\\Gruppe U\\Knauder Gabriel\\Fachtrainer\\Ley\\OOP\\Fu\u00DFball 1\\Fu\u00DFball 1\\Goalie.cs",
+              "RelativeDocumentMoniker": "Fu\u00DFball 1\\Goalie.cs",
+              "ToolTip": "X:\\Lehrlinge\\Gruppe U\\Knauder Gabriel\\Fachtrainer\\Ley\\OOP\\Fu\u00DFball 1\\Fu\u00DFball 1\\Goalie.cs",
+              "RelativeToolTip": "Fu\u00DFball 1\\Goalie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T12:43:00.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ersatzbank.cs",
+              "DocumentMoniker": "X:\\Lehrlinge\\Gruppe U\\Knauder Gabriel\\Fachtrainer\\Ley\\OOP\\Fu\u00DFball 1\\Fu\u00DFball 1\\Ersatzbank.cs",
+              "RelativeDocumentMoniker": "Fu\u00DFball 1\\Ersatzbank.cs",
+              "ToolTip": "X:\\Lehrlinge\\Gruppe U\\Knauder Gabriel\\Fachtrainer\\Ley\\OOP\\Fu\u00DFball 1\\Fu\u00DFball 1\\Ersatzbank.cs",
+              "RelativeToolTip": "Fu\u00DFball 1\\Ersatzbank.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T12:42:19.747Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+div {
+    border: 2px solid green;
+    margin-left: 100px;
+}
+
+p {
+    position: relative;
+    border: 2px solid red;
+}
+
+img {
+    position: absolute;
+    top: 150px;
+    left: -150px;
+}

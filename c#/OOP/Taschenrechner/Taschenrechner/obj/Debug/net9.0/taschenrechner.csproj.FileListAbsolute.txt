@@ -1,0 +1,14 @@
+R:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\OOP\taschenrechner\taschenrechner\bin\Debug\net9.0\taschenrechner.exe
+R:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\OOP\taschenrechner\taschenrechner\bin\Debug\net9.0\taschenrechner.deps.json
+R:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\OOP\taschenrechner\taschenrechner\bin\Debug\net9.0\taschenrechner.runtimeconfig.json
+R:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\OOP\taschenrechner\taschenrechner\bin\Debug\net9.0\taschenrechner.dll
+R:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\OOP\taschenrechner\taschenrechner\bin\Debug\net9.0\taschenrechner.pdb
+R:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\OOP\taschenrechner\taschenrechner\obj\Debug\net9.0\taschenrechner.GeneratedMSBuildEditorConfig.editorconfig
+R:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\OOP\taschenrechner\taschenrechner\obj\Debug\net9.0\taschenrechner.AssemblyInfoInputs.cache
+R:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\OOP\taschenrechner\taschenrechner\obj\Debug\net9.0\taschenrechner.AssemblyInfo.cs
+R:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\OOP\taschenrechner\taschenrechner\obj\Debug\net9.0\taschenrechner.csproj.CoreCompileInputs.cache
+R:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\OOP\taschenrechner\taschenrechner\obj\Debug\net9.0\taschenrechner.dll
+R:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\OOP\taschenrechner\taschenrechner\obj\Debug\net9.0\refint\taschenrechner.dll
+R:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\OOP\taschenrechner\taschenrechner\obj\Debug\net9.0\taschenrechner.pdb
+R:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\OOP\taschenrechner\taschenrechner\obj\Debug\net9.0\taschenrechner.genruntimeconfig.cache
+R:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\OOP\taschenrechner\taschenrechner\obj\Debug\net9.0\ref\taschenrechner.dll

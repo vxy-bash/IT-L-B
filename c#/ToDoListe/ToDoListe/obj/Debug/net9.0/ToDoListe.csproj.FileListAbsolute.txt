@@ -1,0 +1,14 @@
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Raunig\c#\ToDoListe\ToDoListe\bin\Debug\net9.0\ToDoListe.exe
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Raunig\c#\ToDoListe\ToDoListe\bin\Debug\net9.0\ToDoListe.deps.json
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Raunig\c#\ToDoListe\ToDoListe\bin\Debug\net9.0\ToDoListe.runtimeconfig.json
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Raunig\c#\ToDoListe\ToDoListe\bin\Debug\net9.0\ToDoListe.dll
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Raunig\c#\ToDoListe\ToDoListe\bin\Debug\net9.0\ToDoListe.pdb
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Raunig\c#\ToDoListe\ToDoListe\obj\Debug\net9.0\ToDoListe.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Raunig\c#\ToDoListe\ToDoListe\obj\Debug\net9.0\ToDoListe.AssemblyInfoInputs.cache
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Raunig\c#\ToDoListe\ToDoListe\obj\Debug\net9.0\ToDoListe.AssemblyInfo.cs
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Raunig\c#\ToDoListe\ToDoListe\obj\Debug\net9.0\ToDoListe.csproj.CoreCompileInputs.cache
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Raunig\c#\ToDoListe\ToDoListe\obj\Debug\net9.0\ToDoListe.dll
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Raunig\c#\ToDoListe\ToDoListe\obj\Debug\net9.0\refint\ToDoListe.dll
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Raunig\c#\ToDoListe\ToDoListe\obj\Debug\net9.0\ToDoListe.pdb
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Raunig\c#\ToDoListe\ToDoListe\obj\Debug\net9.0\ToDoListe.genruntimeconfig.cache
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Raunig\c#\ToDoListe\ToDoListe\obj\Debug\net9.0\ref\ToDoListe.dll

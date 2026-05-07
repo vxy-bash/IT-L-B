@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Z:\\Lehrlinge\\Gruppe U\\Knauder Gabriel\\Fachtrainer\\Ley\\Matrizen\\Matrizen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4071196-95C5-4622-A408-48C605FA78A3}|Matrizen.csproj|z:\\lehrlinge\\gruppe u\\knauder gabriel\\fachtrainer\\ley\\matrizen\\matrizen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4071196-95C5-4622-A408-48C605FA78A3}|Matrizen.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4071196-95C5-4622-A408-48C605FA78A3}|Matrizen.csproj|z:\\lehrlinge\\gruppe u\\knauder gabriel\\fachtrainer\\ley\\matrizen\\matrizen\\matrizen.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A4071196-95C5-4622-A408-48C605FA78A3}|Matrizen.csproj|solutionrelative:matrizen.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Matrizen.csproj",
+              "DocumentMoniker": "Z:\\Lehrlinge\\Gruppe U\\Knauder Gabriel\\Fachtrainer\\Ley\\Matrizen\\Matrizen\\Matrizen.csproj",
+              "RelativeDocumentMoniker": "Matrizen.csproj",
+              "ToolTip": "Z:\\Lehrlinge\\Gruppe U\\Knauder Gabriel\\Fachtrainer\\Ley\\Matrizen\\Matrizen\\Matrizen.csproj",
+              "RelativeToolTip": "Matrizen.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-08T06:22:44.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Z:\\Lehrlinge\\Gruppe U\\Knauder Gabriel\\Fachtrainer\\Ley\\Matrizen\\Matrizen\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "Z:\\Lehrlinge\\Gruppe U\\Knauder Gabriel\\Fachtrainer\\Ley\\Matrizen\\Matrizen\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T09:27:07.024Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

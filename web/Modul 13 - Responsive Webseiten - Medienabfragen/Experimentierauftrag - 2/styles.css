@@ -1,0 +1,38 @@
+
+nav ul {
+ padding-left: 0px;
+ list-style: none;
+}
+
+@media screen and (min-width: 935px) {
+nav li {
+ display: block;
+ margin: 5px;
+  }
+}
+
+/* @media screen and (min-width: 935px and max-height: 500px) {
+nav li {
+ display: block;
+ margin: 5px;
+  }
+} */
+
+/* @media screen and (max-width: 935px and min-height: 500px) {
+nav li {
+ display: block;
+ margin: 5px;
+  }
+} */
+
+nav a {
+ display: block;
+ width: 150px;
+ height: 25px;
+ padding-top: 7px;
+ background-color: lightblue;
+ color: blue;
+ text-align: center;
+ border-radius: 25px 0px 25px 0px;
+}
+

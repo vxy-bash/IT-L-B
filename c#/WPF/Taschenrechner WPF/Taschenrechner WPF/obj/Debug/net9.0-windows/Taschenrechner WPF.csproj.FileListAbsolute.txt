@@ -1,0 +1,40 @@
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\WPF\Taschenrechner WPF\Taschenrechner WPF\bin\Debug\net9.0-windows\Taschenrechner WPF.exe
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\WPF\Taschenrechner WPF\Taschenrechner WPF\bin\Debug\net9.0-windows\Taschenrechner WPF.deps.json
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\WPF\Taschenrechner WPF\Taschenrechner WPF\bin\Debug\net9.0-windows\Taschenrechner WPF.runtimeconfig.json
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\WPF\Taschenrechner WPF\Taschenrechner WPF\bin\Debug\net9.0-windows\Taschenrechner WPF.dll
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\WPF\Taschenrechner WPF\Taschenrechner WPF\bin\Debug\net9.0-windows\Taschenrechner WPF.pdb
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\WPF\Taschenrechner WPF\Taschenrechner WPF\obj\Debug\net9.0-windows\MainWindow.g.cs
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\WPF\Taschenrechner WPF\Taschenrechner WPF\obj\Debug\net9.0-windows\App.g.cs
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\WPF\Taschenrechner WPF\Taschenrechner WPF\obj\Debug\net9.0-windows\Taschenrechner WPF_MarkupCompile.cache
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\WPF\Taschenrechner WPF\Taschenrechner WPF\obj\Debug\net9.0-windows\Taschenrechner WPF_MarkupCompile.lref
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\WPF\Taschenrechner WPF\Taschenrechner WPF\obj\Debug\net9.0-windows\MainWindow.baml
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\WPF\Taschenrechner WPF\Taschenrechner WPF\obj\Debug\net9.0-windows\Taschenrechner WPF.g.resources
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\WPF\Taschenrechner WPF\Taschenrechner WPF\obj\Debug\net9.0-windows\Taschenrechner WPF.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\WPF\Taschenrechner WPF\Taschenrechner WPF\obj\Debug\net9.0-windows\Taschenrechner WPF.AssemblyInfoInputs.cache
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\WPF\Taschenrechner WPF\Taschenrechner WPF\obj\Debug\net9.0-windows\Taschenrechner WPF.AssemblyInfo.cs
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\WPF\Taschenrechner WPF\Taschenrechner WPF\obj\Debug\net9.0-windows\Taschenrechner WPF.csproj.CoreCompileInputs.cache
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\WPF\Taschenrechner WPF\Taschenrechner WPF\obj\Debug\net9.0-windows\Taschenrechner WPF.dll
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\WPF\Taschenrechner WPF\Taschenrechner WPF\obj\Debug\net9.0-windows\refint\Taschenrechner WPF.dll
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\WPF\Taschenrechner WPF\Taschenrechner WPF\obj\Debug\net9.0-windows\Taschenrechner WPF.pdb
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\WPF\Taschenrechner WPF\Taschenrechner WPF\obj\Debug\net9.0-windows\Taschenrechner WPF.genruntimeconfig.cache
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\WPF\Taschenrechner WPF\Taschenrechner WPF\obj\Debug\net9.0-windows\ref\Taschenrechner WPF.dll
+\\10.90.10.250\itlabvi\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\WPF\Taschenrechner WPF\Taschenrechner WPF\bin\Debug\net9.0-windows\Taschenrechner WPF.exe
+\\10.90.10.250\itlabvi\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\WPF\Taschenrechner WPF\Taschenrechner WPF\bin\Debug\net9.0-windows\Taschenrechner WPF.deps.json
+\\10.90.10.250\itlabvi\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\WPF\Taschenrechner WPF\Taschenrechner WPF\bin\Debug\net9.0-windows\Taschenrechner WPF.runtimeconfig.json
+\\10.90.10.250\itlabvi\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\WPF\Taschenrechner WPF\Taschenrechner WPF\bin\Debug\net9.0-windows\Taschenrechner WPF.dll
+\\10.90.10.250\itlabvi\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\WPF\Taschenrechner WPF\Taschenrechner WPF\bin\Debug\net9.0-windows\Taschenrechner WPF.pdb
+\\10.90.10.250\itlabvi\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\WPF\Taschenrechner WPF\Taschenrechner WPF\obj\Debug\net9.0-windows\MainWindow.g.cs
+\\10.90.10.250\itlabvi\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\WPF\Taschenrechner WPF\Taschenrechner WPF\obj\Debug\net9.0-windows\App.g.cs
+\\10.90.10.250\itlabvi\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\WPF\Taschenrechner WPF\Taschenrechner WPF\obj\Debug\net9.0-windows\Taschenrechner WPF_MarkupCompile.cache
+\\10.90.10.250\itlabvi\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\WPF\Taschenrechner WPF\Taschenrechner WPF\obj\Debug\net9.0-windows\Taschenrechner WPF_MarkupCompile.lref
+\\10.90.10.250\itlabvi\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\WPF\Taschenrechner WPF\Taschenrechner WPF\obj\Debug\net9.0-windows\MainWindow.baml
+\\10.90.10.250\itlabvi\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\WPF\Taschenrechner WPF\Taschenrechner WPF\obj\Debug\net9.0-windows\Taschenrechner WPF.g.resources
+\\10.90.10.250\itlabvi\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\WPF\Taschenrechner WPF\Taschenrechner WPF\obj\Debug\net9.0-windows\Taschenrechner WPF.GeneratedMSBuildEditorConfig.editorconfig
+\\10.90.10.250\itlabvi\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\WPF\Taschenrechner WPF\Taschenrechner WPF\obj\Debug\net9.0-windows\Taschenrechner WPF.AssemblyInfoInputs.cache
+\\10.90.10.250\itlabvi\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\WPF\Taschenrechner WPF\Taschenrechner WPF\obj\Debug\net9.0-windows\Taschenrechner WPF.AssemblyInfo.cs
+\\10.90.10.250\itlabvi\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\WPF\Taschenrechner WPF\Taschenrechner WPF\obj\Debug\net9.0-windows\Taschenrechner WPF.csproj.CoreCompileInputs.cache
+\\10.90.10.250\itlabvi\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\WPF\Taschenrechner WPF\Taschenrechner WPF\obj\Debug\net9.0-windows\Taschenrechner WPF.dll
+\\10.90.10.250\itlabvi\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\WPF\Taschenrechner WPF\Taschenrechner WPF\obj\Debug\net9.0-windows\refint\Taschenrechner WPF.dll
+\\10.90.10.250\itlabvi\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\WPF\Taschenrechner WPF\Taschenrechner WPF\obj\Debug\net9.0-windows\Taschenrechner WPF.pdb
+\\10.90.10.250\itlabvi\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\WPF\Taschenrechner WPF\Taschenrechner WPF\obj\Debug\net9.0-windows\Taschenrechner WPF.genruntimeconfig.cache
+\\10.90.10.250\itlabvi\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\WPF\Taschenrechner WPF\Taschenrechner WPF\obj\Debug\net9.0-windows\ref\Taschenrechner WPF.dll

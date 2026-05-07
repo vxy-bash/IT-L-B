@@ -1,0 +1,14 @@
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\Matrizen\Matrizen\obj\Debug\net9.0\Matrizen.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\Matrizen\Matrizen\obj\Debug\net9.0\Matrizen.AssemblyInfoInputs.cache
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\Matrizen\Matrizen\obj\Debug\net9.0\Matrizen.AssemblyInfo.cs
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\Matrizen\Matrizen\obj\Debug\net9.0\Matrizen.csproj.CoreCompileInputs.cache
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\Matrizen\Matrizen\bin\Debug\net9.0\Matrizen.exe
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\Matrizen\Matrizen\bin\Debug\net9.0\Matrizen.deps.json
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\Matrizen\Matrizen\bin\Debug\net9.0\Matrizen.runtimeconfig.json
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\Matrizen\Matrizen\bin\Debug\net9.0\Matrizen.dll
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\Matrizen\Matrizen\bin\Debug\net9.0\Matrizen.pdb
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\Matrizen\Matrizen\obj\Debug\net9.0\Matrizen.dll
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\Matrizen\Matrizen\obj\Debug\net9.0\refint\Matrizen.dll
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\Matrizen\Matrizen\obj\Debug\net9.0\Matrizen.pdb
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\Matrizen\Matrizen\obj\Debug\net9.0\Matrizen.genruntimeconfig.cache
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\Matrizen\Matrizen\obj\Debug\net9.0\ref\Matrizen.dll

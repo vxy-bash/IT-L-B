@@ -1,0 +1,55 @@
+.A-test {
+    background-color: red;
+    color: aliceblue;
+    height: 75px;
+    width: 120px;
+    position: relative;
+    left: 300px;
+    top: 45px;
+    z-index: 2;
+}
+
+.B-test {
+
+  background-color: blue;
+    height: 75px;
+    width: 200px;
+    position: absolute;
+    top: 70px;
+    left: 115px;
+    z-index: 1;
+}
+
+.C-test {
+
+    background-color: green;
+    height: 75px;
+    width: 120px;
+    position: relative;
+    top: 25px;
+    left: 50px;
+
+}
+
+.D-test {
+
+    background-color: yellow;
+    height: 75px;
+    width: 120px;
+    position: fixed;
+    top: 90px;
+    left: 400px;
+    z-index: -1;
+}
+
+.E-test {
+
+    background-color: purple;
+    height: 75px;
+    width: 120px;
+    position: absolute;
+    top: 135px;
+    left: 450px;
+    z-index: -2;
+}
+

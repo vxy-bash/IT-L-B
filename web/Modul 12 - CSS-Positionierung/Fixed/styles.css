@@ -1,0 +1,10 @@
+div {
+    border: 2px solid green;
+    margin-left: 50px;
+}
+
+img {
+    position: fixed;
+    top: 75px;
+    left: 50px;
+}

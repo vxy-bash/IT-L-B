@@ -1,0 +1,14 @@
+R:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\OOP\Bahnhof 1\Bahnhof 1\Bahnhof 1\obj\Debug\net9.0\Bahnhof 1.GeneratedMSBuildEditorConfig.editorconfig
+R:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\OOP\Bahnhof 1\Bahnhof 1\Bahnhof 1\obj\Debug\net9.0\Bahnhof 1.AssemblyInfoInputs.cache
+R:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\OOP\Bahnhof 1\Bahnhof 1\Bahnhof 1\obj\Debug\net9.0\Bahnhof 1.AssemblyInfo.cs
+R:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\OOP\Bahnhof 1\Bahnhof 1\Bahnhof 1\obj\Debug\net9.0\Bahnhof 1.csproj.CoreCompileInputs.cache
+R:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\OOP\Bahnhof 1\Bahnhof 1\Bahnhof 1\bin\Debug\net9.0\Bahnhof 1.exe
+R:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\OOP\Bahnhof 1\Bahnhof 1\Bahnhof 1\bin\Debug\net9.0\Bahnhof 1.deps.json
+R:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\OOP\Bahnhof 1\Bahnhof 1\Bahnhof 1\bin\Debug\net9.0\Bahnhof 1.runtimeconfig.json
+R:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\OOP\Bahnhof 1\Bahnhof 1\Bahnhof 1\bin\Debug\net9.0\Bahnhof 1.dll
+R:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\OOP\Bahnhof 1\Bahnhof 1\Bahnhof 1\bin\Debug\net9.0\Bahnhof 1.pdb
+R:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\OOP\Bahnhof 1\Bahnhof 1\Bahnhof 1\obj\Debug\net9.0\Bahnhof 1.dll
+R:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\OOP\Bahnhof 1\Bahnhof 1\Bahnhof 1\obj\Debug\net9.0\refint\Bahnhof 1.dll
+R:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\OOP\Bahnhof 1\Bahnhof 1\Bahnhof 1\obj\Debug\net9.0\Bahnhof 1.pdb
+R:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\OOP\Bahnhof 1\Bahnhof 1\Bahnhof 1\obj\Debug\net9.0\Bahnhof 1.genruntimeconfig.cache
+R:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\OOP\Bahnhof 1\Bahnhof 1\Bahnhof 1\obj\Debug\net9.0\ref\Bahnhof 1.dll

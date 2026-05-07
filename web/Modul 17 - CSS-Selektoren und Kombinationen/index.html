@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Präsentation CSS Selektoren</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+
+<body>
+    <main>
+        <h1>CSS-Selektoren</h1>
+
+        <h2>Basis & Attribute</h2>
+        <section>
+            <article><strong>Universal (*)</strong>
+                <p>Wählt alles.</p><code>* { margin: 0; }</code>
+            </article>
+            <article><strong>Klasse (.)</strong>
+                <p>Wählt Klassen.</p><code>.btn { color: red; }</code>
+            </article>
+            <article><strong>ID (#)</strong>
+                <p>Einzigartig.</p><code>#nav { top: 0; }</code>
+            </article>
+            <article><strong>Attribut ([])</strong>
+                <p>Nach HTML-Werten.</p><code>[type="text"] { }</code>
+            </article>
+        </section>
+
+        <h2>Kombinatoren</h2>
+        <section>
+            <article><strong>Nachfahre ( )</strong>
+                <p>Alle Ebenen tiefer.</p><code>div p { }</code>
+            </article>
+            <article><strong>Kind (>)</strong>
+                <p>Nur direkte Ebene.</p><code>ul > li { }</code>
+            </article>
+            <article><strong>Nachbar (+)</strong>
+                <p>Direkt folgendes Element.</p><code>h1 + p { }</code>
+            </article>
+            <article><strong>Geschwister (~)</strong>
+                <p>Alle folgenden gleichen Typs.</p><code>h1 ~ p { }</code>
+            </article>
+        </section>
+                      
+        <h2>Vergleich</h2>
+        <table>
+            <tr>
+                <th>Kombinatoren (Struktur)</th>
+                <th>Klassen (Komponenten)</th>
+            </tr>
+            <tr>
+                <td>Sauberes HTML (weniger Markup)</td>
+                <td>Struktur-unabhängig (flexibel)</td>
+            </tr>
+            <tr>
+                <td>Automatisch für neue Elemente</td>
+                <td>Hohe Spezifität & Eindeutigkeit</td>
+            </tr>
+        </table>
+
+        <p>
+        <footer><strong>Schätzung:</strong> Nutzung ca. 70% Klassen / 30% Kombinatoren.</footer>
+        </p>
+    </main>
+</body>
+
+</html>

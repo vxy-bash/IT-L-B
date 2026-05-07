@@ -1,0 +1,14 @@
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\OOP\ConsoleApp1\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.exe
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\OOP\ConsoleApp1\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.deps.json
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\OOP\ConsoleApp1\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.runtimeconfig.json
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\OOP\ConsoleApp1\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.dll
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\OOP\ConsoleApp1\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.pdb
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\OOP\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\OOP\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.AssemblyInfoInputs.cache
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\OOP\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.AssemblyInfo.cs
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\OOP\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\OOP\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.dll
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\OOP\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\refint\ConsoleApp1.dll
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\OOP\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.pdb
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\OOP\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.genruntimeconfig.cache
+Z:\Lehrlinge\Gruppe U\Knauder Gabriel\Fachtrainer\Ley\OOP\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ref\ConsoleApp1.dll

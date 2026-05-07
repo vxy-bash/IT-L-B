@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Laufschrift</title>
+</head>
+
+<style>
+ p {
+        color: white;
+        width: 7000px;
+        height: 50px;
+        transition: scale 5s;
+        position: absolute;
+        left: 200px;
+        top: 200px;
+        animation: trans 30s infinite;
+        font-size: 500%;
+
+    }
+
+    body{
+        background-color: black;
+    }
+
+
+
+    @keyframes trans {
+        0% {
+            transform: translate(2000px, 0px);
+        }
+
+        100% {
+            transform: translate(-5000px, 0px);
+        }
+    }
+</style>
+
+<body>
+    <div>
+        <p>Sie lesen gerade eine von mir selbst programmierte Animation für eine Laufschrift. Geben sie gerne Feedback
+            ab, ob es zu schnell oder zu langsam ist.
+        </p>
+    </div>
+</body>
+
+</html>

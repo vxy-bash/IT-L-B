@@ -1,0 +1,41 @@
+
+main {
+  container-type: size;
+  width: 75%;
+}
+
+@container (width >= 500px)
+{
+  article
+  {
+    background-color: red;
+  }
+}
+
+article {
+  text-align: center;
+}
+
+nav ul {
+ padding-left: 0px;
+ list-style: none;
+}
+
+
+nav li {
+ display: inline-block;
+ margin: 5px;
+}
+
+
+nav a {
+ display: block;
+ width: 150px;
+ height: 25px;
+ padding-top: 7px;
+ background-color: lightblue;
+ color: blue;
+ text-align: center;
+ border-radius: 25px 0px 25px 0px;
+}
+

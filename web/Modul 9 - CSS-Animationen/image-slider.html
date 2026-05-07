@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Slider</title>
+</head>
+
+<style>
+    div {
+        width: 500px;
+        height: 500px;
+        border-radius: 0px;
+        position: relative;
+        animation: slider 10s infinite;
+    }
+
+    @keyframes slider {
+
+        0% {
+            background-image: url(Bilder/sommer.webp);
+            left: -200px;
+        }
+
+        25% {
+            background-image: url(Bilder/sommer.webp);
+            left: 600px;
+
+
+
+        }
+
+        40% {
+            background-image: url(Bilder/sommer.webp);
+            left: 2000px;
+        }
+
+        41% {
+            background-image: none;
+        }
+
+        45% {
+            left: -600px;
+        }
+
+        50% {
+            background-image: url(Bilder/herbst.webp);
+            left: -600px;
+            
+        }
+
+        75% {
+            background-image: url(Bilder/herbst.webp);
+            left: 600px;
+        }
+
+        90% {
+            background-image: url(Bilder/herbst.webp);
+            left: 2000px;
+        }
+        
+        91% {
+            background-image: none;
+        }
+
+        95% {
+            left: -600;
+        }
+    }
+</style>
+
+<body>
+    <div>
+
+    </div>
+</body>
+
+</html>

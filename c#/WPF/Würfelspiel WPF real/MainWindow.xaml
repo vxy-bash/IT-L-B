@@ -1,0 +1,64 @@
+﻿<Window x:Class="Würfelspiel_WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Würfelspiel" Height="800" Width="700" Background="{DynamicResource {x:Static SystemColors.ControlLightBrushKey}}">
+
+    <Grid Margin="10">
+        <Grid.Effect>
+            <DropShadowEffect/>
+        </Grid.Effect>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="200*"/>
+            <ColumnDefinition Width="270*"/>
+            <ColumnDefinition Width="10*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0" Opacity="0.25">
+                <GradientStop Color="#FF002671" Offset="0"/>
+                <GradientStop Color="#FF880000" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+
+        <TextBlock Grid.ColumnSpan="3" Text="Würfelspiel gegen den Computer" 
+                   FontSize="24" FontWeight="Bold" HorizontalAlignment="Center" Margin="10"/>
+
+        <Grid Grid.Row="1" Margin="0,20" Grid.ColumnSpan="3">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+            <StackPanel Grid.Column="0" HorizontalAlignment="Center">
+                <TextBlock Text="Deine Punkte" FontWeight="Bold" FontSize="16"/>
+                <TextBlock x:Name="SpielerPunkte" Text="0" FontSize="20" Foreground="Blue" HorizontalAlignment="Center"/>
+            </StackPanel>
+            <StackPanel Grid.Column="1" HorizontalAlignment="Center">
+                <TextBlock Text="Gegner Punkte" FontWeight="Bold" FontSize="16"/>
+                <TextBlock x:Name="GegnerPunkte" Text="0" FontSize="20" Foreground="Green" HorizontalAlignment="Center"/>
+            </StackPanel>
+        </Grid>
+
+        <StackPanel Grid.Row="2" Grid.ColumnSpan="3" Orientation="Horizontal" HorizontalAlignment="Center" Margin="10">
+            <Border BorderBrush="Black" BorderThickness="2" CornerRadius="10" Width="60" Height="60" Margin="10" Background="White">
+                <TextBlock x:Name="Würfel1" FontSize="36" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+            </Border>
+            <Border BorderBrush="Black" BorderThickness="2" CornerRadius="10" Width="60" Height="60" Margin="10" Background="White">
+                <TextBlock x:Name="Würfel2" FontSize="36" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+            </Border>
+        </StackPanel>
+
+        <StackPanel Grid.Row="4" Grid.ColumnSpan="3" VerticalAlignment="Center">
+            <Button x:Name="Würfeln" Content="Würfeln" Width="120" Height="60" FontSize="16" 
+                    Click="Würfeln_Click" Background="Blue" Foreground="White" Margin="10"/>
+            <TextBlock x:Name="Nachricht" Text="Drücke Würfeln, um zu starten." 
+                       FontSize="16" TextAlignment="Center" Margin="10"/>
+        </StackPanel>
+    </Grid>
+</Window>
